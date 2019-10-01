@@ -1,30 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: September 29, 2019: Sunday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've now finished the basic HTML portion of freecodecamp, so today I continued on to the CSS curriculum for an hour. So far I'm 42 challenges in.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I didn't really think I enjoyed CSS that much until today, as I finally managed to make my project page look nice.  Regardless, I think I'm going to begin focusing on Python more, I'd like to get a taste of something outside of front-end development.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** freecodecamp.org, feel free to join in, it's a great resource.
+      #Need to add an image here for day 1, need to figure out this log's controls though.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: September 30, 2019 : Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on python, learned about imports, loops, randomizations, more if/then statements.  Today was the first day I've learned about/used "userInput()," which was really interesting.  
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Python's confusing for the time being, but I think once I get a little more time I'll be pretty strong at it.  I'm really curious what all it can do as far as programming.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: This one's on my server, but I'll upload a pic to show my progress as soon as I have time tonight.
+    #Pic of python script I did today, interesting stuff.  In the meanwhile here's a link to my first commands ever with python.  Pretty lame: http://pages.iu.edu/~sjmunro/i101/py1.html
 
 
-### Day 1: June 27, Monday
+### Day 2: October 1, 2019: Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: That's today! I'm out of class at 8:00pm, so this should be updated around 10:00.  Let's get it.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
