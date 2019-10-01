@@ -21,11 +21,11 @@
 
 ### Day 2: October 1, 2019: Tuesday
 
-**Today's Progress**: What is VSCode?! How do I download Python?! What's the difference between Github and Git?!
+**Today's Progress**: What is VSCode... How do I download Python to it? What's the difference between Github and Git?!
 <br/>
-<h2><b>WHY DOESN'T MY GITHUB CODE HAVE ANY EFFECT ON ITS APPEARANCE?!?</b></h2>
+<h2><b>WHY DOESN'T MY GITHUB CODE WORK LIKE IT DID IN THE TERMINAL?!?</b></h2>
 <br/>
-Three of one thousand questions I've accumulated, there's so much to learn before I can even begin uploading and working on all of the platforms. I'm out of class at 8:00pm, so this should be updated with answers around 10:00.  Let's get it.
+Three of <b>one thousand</b> questions I've accumulated, there's so much to learn before I can even begin uploading and working on all of the platforms. I'm out of class at 8:00pm, so this should be updated with answers around 10:00.  Let's get it.
 
 **Thoughts** 
 
