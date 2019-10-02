@@ -27,11 +27,13 @@
 ### Day 2: October 1, 2019: Tuesday
 
 **Today's Progress**: What is VSCode... How do I download Python to it? What's the difference between Github and Git?!
-<p><h2><b>WHY DOESN'T MY GITHUB CODE WORK LIKE IT DID IN THE TERMINAL?!?</b></h2><p>
+<p><h4><b>WHY DOESN'T MY GITHUB CODE WORK LIKE IT DID IN THE TERMINAL?!?</b></h4><p>
 <br/>
 Three of <b>one thousand</b> questions I've accumulated, there's so much to learn before I can even begin uploading and working on all of the platforms. <i>Regardless</i>, I've been working on Python today. I'm playing with randomizations, loops, etc. once again to make sure I have them down.  Going to put in extra time today, but I'll upload a pic of my progress:
 
-**Thoughts** 
+**Thoughts** <br/>
+<img src="https://github.com/smunro317/100-days-of-code/blob/master/Images/Noideameme.gif" width="600">
+<br/>
 Considering it's been well over an hour today i'm pretty happy.  I've made a lot of progress and can even do some while loops without referencing my notes.. They have to be 100% basic though.  Going to watch some syntax videos tomorrow.  Hasta la vista.
 
 **Link(s) to work**
