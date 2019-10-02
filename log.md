@@ -4,7 +4,7 @@
 
 **Today's Progress**: I've now finished the basic HTML portion of freecodecamp, so today I continued on to the CSS curriculum for an hour. So far I'm 42 challenges in.  My work attached:
 <br/>
-<img src="https://photos.google.com/photo/AF1QipMQd715aEFjGaXjUp1JkSbPnEakuDB39G-u0PHa">
+<img src="https://photos.app.goo.gl/scr9MY6yJiZ7CuDD8" style="width:300px; height:500px;/>
 
 **Thoughts:** I didn't really think I enjoyed CSS that much until today, as I finally managed to make my project page look nice.  The curriculum is pretty funny, programming tutorials always throw in nerdy humor so this coincidentally was cat-obsessive. Regardless, I think I'm going to begin focusing on Python more, I'd like to get a taste of something outside of front-end development.
 
