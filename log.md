@@ -26,8 +26,10 @@
 **Today's Progress**: What is VSCode... How do I download Python to it? What's the difference between Github and Git?!
 <p><h2><b>WHY DOESN'T MY GITHUB CODE WORK LIKE IT DID IN THE TERMINAL?!?</b></h2><p>
 <br/>
-Three of <b>one thousand</b> questions I've accumulated, there's so much to learn before I can even begin uploading and working on all of the platforms. I'm out of class at 8:00pm, so this should be updated with answers around 10:00.  Let's get it.
+Three of <b>one thousand</b> questions I've accumulated, there's so much to learn before I can even begin uploading and working on all of the platforms. <i>Regardless</i>, I've been working on Python today. I'm playing with randomizations, loops, etc. once again to make sure I have them down.  Going to put in extra time today, but I'll upload a pic of my progress:
 
 **Thoughts** 
+Considering it's been well over an hour today i'm pretty happy.  I've made a lot of progress and can even do some while loops without referencing my notes.. They have to be 100% basic though.  Going to watch some syntax videos tomorrow.  Hasta la vista.
 
 **Link(s) to work**
+http://pages.iu.edu/~sjmunro/i101/python3.py
