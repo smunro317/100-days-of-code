@@ -12,7 +12,6 @@
 **Link to work:** freecodecamp.org, feel free to join in, it's a great resource.
       #Need to add an image here for day 1, need to figure out this log's controls though.
 
-<p class="lightblue">
                     
 ### Day 1: September 30, 2019 : Monday
 
@@ -23,12 +22,11 @@
 **Link(s) to work**: This one's on my server, but I'll upload a pic to show my progress as soon as I have time tonight.
     #Pic of python script I did today, interesting stuff.  In the meanwhile here's a link to my first commands ever with python.  Pretty lame: http://pages.iu.edu/~sjmunro/i101/py1.html
 
-</p>
+
 ### Day 2: October 1, 2019: Tuesday
 
 **Today's Progress**: What is VSCode... How do I download Python to it? What's the difference between Github and Git?!
 <p><h4><b>WHY DOESN'T MY GITHUB CODE WORK LIKE IT DID IN THE TERMINAL?!?</b></h4><p>
-<br/>
 Three of <b>one thousand</b> questions I've accumulated, there's so much to learn before I can even begin uploading and working on all of the platforms. <i>Regardless</i>, I've been working on Python today. I'm playing with randomizations, loops, etc. once again to make sure I have them down.  Going to put in extra time today, but I'll upload a pic of my progress:
 
 **Thoughts** <br/>
