@@ -1,3 +1,4 @@
+
 # 100 Days Of Code - Log
 
 ### Day 0: September 29, 2019: Sunday
@@ -11,6 +12,8 @@
 **Link to work:** freecodecamp.org, feel free to join in, it's a great resource.
       #Need to add an image here for day 1, need to figure out this log's controls though.
 
+<p class="lightblue">
+                    
 ### Day 1: September 30, 2019 : Monday
 
 **Today's Progress**: Worked on python, learned about imports, loops, randomizations, more if/then statements.  Today was the first day I've learned about/used "userInput()," which was really interesting.  
@@ -20,7 +23,7 @@
 **Link(s) to work**: This one's on my server, but I'll upload a pic to show my progress as soon as I have time tonight.
     #Pic of python script I did today, interesting stuff.  In the meanwhile here's a link to my first commands ever with python.  Pretty lame: http://pages.iu.edu/~sjmunro/i101/py1.html
 
-
+</p>
 ### Day 2: October 1, 2019: Tuesday
 
 **Today's Progress**: What is VSCode... How do I download Python to it? What's the difference between Github and Git?!
