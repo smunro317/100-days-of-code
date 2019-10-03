@@ -36,3 +36,15 @@ Considering it's been well over an hour today i'm pretty happy.  I've made a lot
 
 **Link(s) to work**
 http://pages.iu.edu/~sjmunro/i101/python3.py
+                    
+                    
+### Day 3: October 2, 2019 : Wednesday
+
+**Today's Progress**: If last nights programming ran through 2:00AM this morning, then does that count as today's hour?.. Nah, let's get started.  We're back on CSS trying to actually style pages and make them look nice.  I worked with some Python to start out, using lists in conjunction with randomization and sentences, then moved onto CSS and played with padding, margins, and attribute selectors which I had never heard of..  Good stuff.
+
+**Thoughts**: Had a busy day so I didn't think I'd be able to put time into this.. Had to pull through it though.  Stayed up late and managed to get more work done than I initially thought I would, very relieved.
+
+**Link(s) to work**: 
+
+
+### Day 4: October 3, 2019: Thursday
