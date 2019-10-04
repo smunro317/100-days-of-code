@@ -48,3 +48,10 @@ http://pages.iu.edu/~sjmunro/i101/python3.py
 
 
 ### Day 4: October 3, 2019: Thursday
+
+**Today's Progress**: I had class until 10:00 then ubered until 3:00AM but you know what, we gotta learn.  So I practiced CSS on freecodecamp until 4:40AM, yikes.  Today I finished the Basic CSS curriculum, and progressed a little under halfway through the applied visual design curriculum.  Things are going well, that was quite a bit of progress.  As soon as I pick back up on my lessons, I'll be working on "offset" commands.
+
+**Thoughts**: No Python today, sad times.  Considering how much progress we made in CSS though i'd say it was well worth it.  Very sleepy, going to bed.
+
+**Link(s) to work**:
+https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets
