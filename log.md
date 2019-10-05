@@ -55,3 +55,11 @@ http://pages.iu.edu/~sjmunro/i101/python3.py
 
 **Link(s) to work**:
 https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets
+
+### Day 5: October 4, 2019: Friday
+
+**Today's Progress**: I've said I would begin doing my hour of code earlier, so as to prevent going to sleep at 3AM.  Unfortunately, today did not mark the beginning of that trend.  It's 3AM. I continued my journey through applied visual design, and began toying with making shapes.  Working with a lot of box-shadow, transparency, et cetera.
+
+**Thoughts**: I made my first shape, a crescent moon, out a weird arrangement of commands for two box shapes.  My next lesson is creating a heart, but it seems like a pretty extensive lesson.  I decided I'd save it for tomorrow so I can soak up all of the info.  Anyways, I'm up early tomorrow.  Hasta manana.
+
+**Link(s) to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html
