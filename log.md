@@ -63,3 +63,12 @@ https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/move-
 **Thoughts**: I made my first shape, a crescent moon, out a weird arrangement of commands for two box shapes.  My next lesson is creating a heart, but it seems like a pretty extensive lesson.  I decided I'd save it for tomorrow so I can soak up all of the info.  Anyways, I'm up early tomorrow.  Hasta manana.
 
 **Link(s) to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-more-complex-shape-using-css-and-html
+
+
+###Day 6: October 5, 2019: Saturday
+
+**Today's Progress**: I finished the applied visual design curriculum today! It finished with animations, so I was using a lot of new commands: ::before/after, @keyframes, timings and more.  It's cool being able to see your work in motion; I made animated a ball to bounce, a heart to beat, some stars to twinkle, and a couple of other challenges as well.  Good stuff.
+
+**Thoughts**: It's kind of nice making something that's visually appealing.  The only sections left in the responsive web design certification are "applied accessibility," responsive web design principles," CSS flexbox," CSS grid," and a couple of challenges, but they're all significantly shorter than the sections I've finished so far.  I'm far beyond halfway done, let's get it.
+
+**Link(s) to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count
