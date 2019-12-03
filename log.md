@@ -74,19 +74,30 @@ https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/move-
 **Link(s) to work**: https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count
 
 
-###Day 7: December 2, 2019: Monday
+###Day 7: December 1, 2019: Sunday
 
 **Today's Progress**: Yoohoo! After taking a long break from this I'm back.  Not necessarily proud of the break, but I was busy with school.  I read through part of Al Sweigart's "Automate the Boring Stuff with Python" I worked through chapter 1, learning about data, and learning minor rules to Python.  A lot of it was review, but I learned some things we never discussed in class.  I made a fairly basic hello world program that takes input and adds.
 
-**Thoughts**: I've been intending to get back into this.. It's hard getting back into the swing of things and making myself code, but I'm glad I did it.  Will hopefully have less road blocks in the upcoming months.  Going to continue working through Automate the Boring Stuff with Pythong (ATBSWP).
+**Thoughts**: I've been intending to get back into this.. It's hard getting back into the swing of things and making myself code, but I'm glad I did it.  Will hopefully have less road blocks in the upcoming months.  Going to continue working through Automate the Boring Stuff with Python (ATBSWP).
 
 **Link(s) to work**: 
 https://automatetheboringstuff.com/chapter1/
 
-###Day 8: December 3, 2019: Tuesday
+###Day 8: December 2, 2019: Monday
+
+**Today's Progress**: Today I mainly did a bunch of reading.  A lot of it was on reddit about how-tos, but most of it was once again on ATBSWP. I've started something to add some excitement into my learning, so from now on I will be doing challenges to test myself and to promote active research and learning.  I'll provide the link to the challenge repository I will be creating.  I only made it a couple of lines into the challenge today, I'll have to think more about how to do this, but it's challenging.
+
+**Thoughts**: Excited to give myself a challenge! 
+
+**Link(s) to work**: 
+https://automatetheboringstuff.com/chapter2/
+https://github.com/smunro317/pychallenges/blob/master/reverseInput
+
+###Day 9: December 3, 2019: Tuesday
 
 **Today's Progress**: TBA
 
 **Thoughts**: TBA
 
 **Link(s) to work**: TBA
+
